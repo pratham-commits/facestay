@@ -1,0 +1,9 @@
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.24
+
+# Optional: virtual camera output for Zoom/Meet (python vcam.py)
+# pyvirtualcam>=0.11
+
+# Optional: LiveKit server-side agent (facestay.livekit_agent)
+# livekit>=0.17
